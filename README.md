@@ -1,4 +1,4 @@
-# Analyseur de Sécurité des Mots de Passe Compte Outlook | À des Fins Éducatives Uniquement
+# Hack de Sécurité des Mots de Passe Compte Outlook 2026 | À des Fins Éducatives Uniquement
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![Sécurité](https://img.shields.io/badge/Sécurité-Audit-red)
